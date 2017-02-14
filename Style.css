@@ -1,5 +1,14 @@
 
+
 h1 {
-    color: blue;
-  text-align: left;
+    color: green;
+    text-decoration: line-through;
+  font-family: serif;
 }
+
+h3  {
+  color: red;
+  text-decoration: underline;
+font-size: 25px;
+  font-family: fantasy;
+  text-decoration: underline;
