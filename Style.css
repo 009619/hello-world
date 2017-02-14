@@ -1,16 +1,8 @@
-
-
-head {
-    color: green;
-    text-decoration: line-through;
-  font-family: serif;
+body {
+  background-color: green;
+  text-align left;
+    color: blue
 }
-
-h3  {
-  color: red;
-  text-decoration: underline;
-font-size: 40px;
-  font-family: fantasy;
 
    
      
